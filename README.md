@@ -10,13 +10,13 @@ detect suitable landing sites for future Mars Missions.
 
 *However, this is a preliminary level project conducted to understand the application of Deep Learning. The model must be refined and trained further to obtain accurate results.*
 
-![alt text](image1.jpg)
+![alt text](image1.png)
 
-![alt text](image2.jpg)
+![alt text](image2.png)
 
-![alt text](image3.jpg)
+![alt text](image3.png)
 
-![alt text](image4.jpg)
+![alt text](image4.png)
 
 
 
