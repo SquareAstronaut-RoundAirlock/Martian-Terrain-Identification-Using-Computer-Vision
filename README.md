@@ -43,9 +43,7 @@ Classes exhibit heterogeneity, captured from different angles, magnifications, b
 
 ![alt text](image4.png)
 
-![alt text](image3.png)
 
-![alt text](image4.png)
 
 
 
